@@ -2,11 +2,13 @@
 
 
 Welcome to the React YouTube Project! We're excited to see you dive into your first React group project. 
-To keep the momentum during the break, we're introducing a prep assignment that will help you stay engaged and prepared for the project. This assignment is meant to ensure you're ready to collaborate effectively and make the most of this experience.
+To keep the momentum during the break, we're introducing a prep assignment that will help you stay engaged and prepared for the project. This assignment is meant to ensure you're ready to collaborate effectively and make the most of this experience.  
+
+Keep in mind that group work is not working together as a group on one feature.  Group work means delegating responsibility between team members and meating agreed upon deadlines.  
 
 ## Assignment Requirements
 
-Your prep assignment submission should include the following components:
+Your prep assignment submission should include the following components.  Remember, this work can and should be split amongst team members :
 
 ### 1. Trello Board
 Create a Trello board that includes all project members (including instructors). Use the board to outline your project plan, tasks, and progress. This will serve as a dynamic tool for task management and collaboration.
