@@ -23,7 +23,11 @@ Diagram your component architecture. Clearly define how components will interact
 Develop wireframes for both mobile and desktop views. Consider different screen sizes for tablets, desktops, and phones. This will guide your UI design and ensure a consistent user experience across devices.
 
 ### 5. Group Norms
-Establish a set of group norms that outline how you'll communicate, make decisions, and handle conflicts. Clear norms will enhance collaboration and create a positive working environment.  This is a contract that you will all agree upon to work together on this project.
+Establish a set of group norms that outline how you'll communicate, make decisions, and handle conflicts. Clear norms will enhance collaboration and create a positive working environment.  This is a contract that you will all agree upon to work together on this project.  It should include
+
+* When we will meet during the break to work 
+* How we choose to communicate - Slack? Email?
+* Deliverables - what is each team member responsible for delivering over the break?
 
 ### 6. GitHub Repository
 Create a GitHub repository for your project. Make sure to include all team members as collaborators. This will be your central hub for version control and collaborative coding.  Select one fellow to create and manage this repository.  
