@@ -15,7 +15,7 @@ Create a Trello board that includes all project members (including instructors).
 
 
 ### 2. Delegated Tasks
-Assign specific tasks to each team member. Define roles and responsibilities, ensuring everyone has a clear understanding of their contributions. This will foster efficient teamwork and individual accountability. Each task should detail a  User Storie that explains a desired feature.  Each member of the team must be assigned at least one user story to work on over the course of the project.
+Assign specific tasks to each team member. Define roles and responsibilities, ensuring everyone has a clear understanding of their contributions. This will foster efficient teamwork and individual accountability. Each task should detail a  User Story that explains a desired feature.  Each member of the team must be assigned at least one user story to work on over the course of the project.
 
 
 ### 3. Component Architecture
