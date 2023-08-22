@@ -39,6 +39,7 @@ Use this [worksheet to help establish your team norms](https://www.ccl.org/artic
 ### 6. GitHub Repository
 Create a GitHub repository for your project. Make sure to include all team members as collaborators. This will be your central hub for version control and collaborative coding.  Select one fellow to create and manage this repository.  
 
+Keep in mind it is the expectation that every team member contribute a Pull Request to the main repository and git history will be monitored to see who is contributing what code.
 
 ## Deliverables
 
