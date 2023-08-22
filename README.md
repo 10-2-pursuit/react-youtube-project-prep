@@ -46,7 +46,7 @@ Please submit your prep assignment by End of Day 8/27 through Canvas. This assig
 3. Shanice, Tonesha, Anile,
 4. Dwayne, Jeffy, Nicole,
 5. Elisaul, Winder, Erick,
-6. Abel, Isaiah, kanique, Joseph
+6. Abel, Isaiah, Kanique, Joseph
 7. Aisha, Jalal, Alexander 
 
 
