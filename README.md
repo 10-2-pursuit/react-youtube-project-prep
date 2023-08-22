@@ -35,9 +35,26 @@ Establish a set of group norms that outline how you'll communicate, make decisio
 Create a GitHub repository for your project. Make sure to include all team members as collaborators. This will be your central hub for version control and collaborative coding.  Select one fellow to create and manage this repository.  
 
 
-## Submission
+## Deliverables
 
-Please submit your prep assignment by End of Day 8/27 through Canvas. This assignment will set the tone for the project and help you make the most of your group effort.
+### Stand Up 
+Each team must schedule a stand-up with their instructor to take place in class on 8/27.  It is the responsibility of each team to proactively communicate when they would like this meeting to occur.  
+During this stand up each teammember must describe:
+* What features they have been working on 
+* What Blockers (if any) they are facing
+* The next feature they intend on building
+
+### Fellow Reviews
+Each member of the team will be responsible for reviewing their teammates by filling out the teamwork rubric located below.
+[10.2 Teamwork Evaluation](https://docs.google.com/forms/d/e/1FAIpQLSdunGqFbV5WOdZ98VZDUhVbdcB2u96bFfDKTRlj8plt_bDnJA/viewform)
+
+Each team member is repsonsible for reviewing **ALL MEMBERS OF THEIR TEAM AND THEMSELVES** 
+
+Reviews are due Sunday 8/27 by End of Day and Tuesday 9/6 at End of Day.  
+
+
+
+
 
 ## Teams
 0. Sung,  Addis,  Mikal
