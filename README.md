@@ -11,12 +11,12 @@ Keep in mind that group work is not working together as a group on one feature. 
 Your prep assignment submission should include the following components.  Remember, this work can and should be split amongst team members :
 
 ### 1. Trello Board
-Create a Trello board that includes all project members (including instructors). Use the board to outline your project plan, tasks, and progress. This will serve as a dynamic tool for task management and collaboration.
-
+Create a Trello board that includes all project members (including instructors). Use the board to outline your project plan, tasks, and progress. This will serve as a dynamic tool for task management and collaboration.  
 
 
 ### 2. Delegated Tasks
-Assign specific tasks to each team member. Define roles and responsibilities, ensuring everyone has a clear understanding of their contributions. This will foster efficient teamwork and individual accountability.
+Assign specific tasks to each team member. Define roles and responsibilities, ensuring everyone has a clear understanding of their contributions. This will foster efficient teamwork and individual accountability. Each task should detail a  User Storie that explains a desired feature.  Each member of the team must be assigned at least one user story to work on over the course of the project.
+
 
 ### 3. Component Architecture
 Diagram your component architecture. Clearly define how components will interact, including how state and props will flow. This visual representation will help you better understand the structure of your application.
