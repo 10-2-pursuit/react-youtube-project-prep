@@ -32,6 +32,10 @@ Establish a set of group norms that outline how you'll communicate, make decisio
 * How we choose to communicate - Slack? Email?
 * Deliverables - what is each team member responsible for delivering over the break?
 
+Read and discuss [Working in Groups](./working-in-groups.md)
+
+Use this [worksheet to help establish your team norms](https://www.ccl.org/articles/leading-effectively-articles/the-real-world-guide-to-team-norms/).
+
 ### 6. GitHub Repository
 Create a GitHub repository for your project. Make sure to include all team members as collaborators. This will be your central hub for version control and collaborative coding.  Select one fellow to create and manage this repository.  
 
