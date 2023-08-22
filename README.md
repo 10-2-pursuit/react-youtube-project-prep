@@ -38,7 +38,7 @@ Create a GitHub repository for your project. Make sure to include all team membe
 ## Deliverables
 
 ### Stand Up 
-Each team must schedule a stand-up with their instructor to take place in class on 8/27.  It is the responsibility of each team to proactively communicate when they would like this meeting to occur.  
+Each team must schedule a stand-up with their instructor to take place during class on 8/27.  It is the responsibility of each team to proactively communicate when they would like this meeting to occur.  
 During this stand up each teammember must describe:
 * What features they have been working on 
 * What Blockers (if any) they are facing
@@ -46,11 +46,12 @@ During this stand up each teammember must describe:
 
 ### Fellow Reviews
 Each member of the team will be responsible for reviewing their teammates by filling out the teamwork rubric located below.
+
 [10.2 Teamwork Evaluation](https://docs.google.com/forms/d/e/1FAIpQLSdunGqFbV5WOdZ98VZDUhVbdcB2u96bFfDKTRlj8plt_bDnJA/viewform)
 
 Each team member is repsonsible for reviewing **ALL MEMBERS OF THEIR TEAM AND THEMSELVES** 
 
-Reviews are due Sunday 8/27 by End of Day and Tuesday 9/6 at End of Day.  
+**Reviews are due Sunday 8/27 by End of Day and Tuesday 9/5 at End of Day**.  
 
 
 
