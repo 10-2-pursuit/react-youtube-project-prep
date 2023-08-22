@@ -69,12 +69,12 @@ Each team member is repsonsible for reviewing **ALL MEMBERS OF THEIR TEAM AND TH
 
 ## Teams
 0. Sung,  Addis,  Mikal
-1. Keith, James, Gen,
+1. Keith, James, Gen
 2. Anthony, Emily, Davon, Michael
-3. Shanice, Tonesha, Anile,
+3. Shanice, Tonesha, Anile, Joseph
 4. Dwayne, Jeffy, Nicole,
 5. Elisaul, Winder, Erick,
-6. Abel, Isaiah, Kanique, Joseph
+6. Abel, Isaiah, Kanique, 
 7. Aisha, Jalal, Alexander 
 
 
