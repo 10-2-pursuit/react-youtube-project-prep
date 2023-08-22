@@ -37,6 +37,11 @@ Create a GitHub repository for your project. Make sure to include all team membe
 
 ## Deliverables
 
+### Planning Documents
+Planning documents for this project are due by ***End of Day 8/27*** 
+
+Submit relevant links on Canvas under the React YouTube Project Prep project
+
 ### Stand Up 
 Each team must schedule a stand-up with their instructor to take place during class on 8/27.  It is the responsibility of each team to proactively communicate when they would like this meeting to occur.  
 During this stand up each teammember must describe:
