@@ -43,7 +43,7 @@ Create a GitHub repository for your project. Make sure to include all team membe
 ## Deliverables
 
 ### Planning Documents
-Planning documents for this project are due by ***End of Day 8/27*** 
+Planning documents for this project are due by ***End of Day 8/23*** 
 
 Submit relevant links on Canvas under the React YouTube Project Prep project
 
