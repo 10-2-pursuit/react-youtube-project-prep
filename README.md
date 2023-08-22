@@ -39,5 +39,15 @@ Create a GitHub repository for your project. Make sure to include all team membe
 
 Please submit your prep assignment by End of Day 8/27 through Canvas. This assignment will set the tone for the project and help you make the most of your group effort.
 
+## Teams
+0. Sung,  Addis,  Mikal
+1. Keith, James, Gen,
+2. Anthony, Emily, Davon, Michael
+3. Shanice, Tonesha, Anile,
+4. Dwayne, Jeffy, Nicole,
+5. Elisaul, Winder, Erick,
+6. Abel, Isaiah, kanique, Joseph
+7. Aisha, Jalal, Alexander 
+
 
 
